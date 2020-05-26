@@ -4,7 +4,7 @@ Quickly unscramble the countries word search created by [@czechophile](https://t
 
 The matrix is contained within `matrix.txt` and lowercase, whitespace stripped countries are contained within `dictionary.txt`.
 
-[Original scan of the wordsdearch](./IMG_3934.jpg)
+[Original scan of the word search](./IMG_3934.jpg)
 
 ## Usage
 
