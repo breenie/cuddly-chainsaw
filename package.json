@@ -1,0 +1,22 @@
+{
+  "name": "cuddly-chainsaw",
+  "version": "1.0.0",
+  "description": "Unscramble Jo and Rob\\'s countries wordsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breenie/cuddly-chainsaw.git"
+  },
+  "author": "chris@kurl.co.uk",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/breenie/cuddly-chainsaw/issues"
+  },
+  "homepage": "https://github.com/breenie/cuddly-chainsaw#readme",
+  "dependencies": {
+    "word-search-solver": "1.2.1"
+  }
+}
